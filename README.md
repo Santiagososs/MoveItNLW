@@ -28,3 +28,19 @@ React
 
 <h2>Fim do timer e xp ganho</h2> 
 
+![GifLevelUp](https://user-images.githubusercontent.com/70164638/109815670-a7b55f80-7c0e-11eb-8e1b-70fc3dec3c31.gif)
+
+
+
+
+
+<h1>Executando o projeto</h1>
+ <h4>Clone esse repositorio: </h4>
+
+ <h4>Acesse a pasta do projeto e instale as dependencias: npm or yarn</h4>
+
+ <h4>Execute: npm run dev</h4>
+
+
+
+
