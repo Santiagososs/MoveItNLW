@@ -38,7 +38,7 @@ React
 
 <h2>Executando o projeto</h2>
  
- 
+ <h4>Clone esse repositorio: git@github.com:Santiagososs/MoveItNLW</h4>
 
  <h4>Acesse a pasta do projeto e instale as dependencias: npm or yarn</h4>
 
