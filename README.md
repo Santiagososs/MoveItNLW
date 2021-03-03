@@ -34,8 +34,11 @@ React
 
 
 
-<h1>Executando o projeto</h1>
- <h4>Clone esse repositorio: </h4>
+
+
+<h2>Executando o projeto</h2>
+ 
+ 
 
  <h4>Acesse a pasta do projeto e instale as dependencias: npm or yarn</h4>
 
