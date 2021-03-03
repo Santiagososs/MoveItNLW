@@ -20,5 +20,11 @@ React
 
 <h1>Projeto</h1>
 
+<h2>Tela inicial e timer</h2>
 
+![GifInicial](https://user-images.githubusercontent.com/70164638/109815153-180fb100-7c0e-11eb-98f8-93c8499af0b9.gif)
+
+
+
+<h2>Fim do timer e xp ganho</h2> 
 
